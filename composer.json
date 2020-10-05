@@ -1,0 +1,18 @@
+{
+    "name": "ivan/ximdex",
+    "description": "A simple PHP test",
+    "type": "test",
+    "authors": [
+        {
+            "name": "Ivan Moll Moll",
+            "email": "ivanmoll07@gmail.com"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "app\\": "./src"
+        }
+    }
+}
